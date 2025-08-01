@@ -3,7 +3,7 @@ coverage.html
 .idea
 .DS_Store
 docs/pulse/*
-dist
+#dist
 .ultra.cache.json
 .vscode
 
@@ -91,7 +91,7 @@ out
 
 # Nuxt.js build / generate output
 .nuxt
-dist
+#dist
 
 # Gatsby files
 .cache/
@@ -125,7 +125,7 @@ dist
 .pnp.*
 !docs/pulse/4.x/
 !docs/pulse/6.x/
-dist
+#dist
 .nyc_output
 coverage
 

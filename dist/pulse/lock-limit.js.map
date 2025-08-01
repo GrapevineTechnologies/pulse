@@ -1,0 +1,1 @@
+{"version":3,"file":"lock-limit.js","sourceRoot":"","sources":["../../src/pulse/lock-limit.ts"],"names":[],"mappings":";;;;AAAA,0DAAmC;AAGnC,MAAM,KAAK,GAAG,IAAA,eAAc,EAAC,iBAAiB,CAAC,CAAC;AASzC,MAAM,SAAS,GAAoB,UAAuB,KAAK;IAEpE,KAAK,CAAC,qBAAqB,EAAE,KAAK,CAAC,CAAC;IACpC,IAAI,CAAC,UAAU,GAAG,KAAK,CAAC;IACxB,OAAO,IAAI,CAAC;AACd,CAAC,CAAC;AALW,QAAA,SAAS,aAKpB"}
